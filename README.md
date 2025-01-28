@@ -31,7 +31,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/breast-cancer-prediction.git
+git clone https://github.com/preksha2166/Breast-Cancer-Prediction.git
 ```
 2. Navigate to the project directory:
 ```bash
